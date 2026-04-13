@@ -1,0 +1,572 @@
+{
+  "title": "TOPIK2 新韓檢中高級字彙 60天搶分王",
+  "total_words": 2400,
+  "parts": [
+    {
+      "num": 1,
+      "kr": "광고·도표",
+      "zh": "廣告・圖表",
+      "days": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "num": 2,
+      "kr": "경제",
+      "zh": "經濟",
+      "days": [
+        6,
+        7,
+        8,
+        9,
+        10
+      ]
+    },
+    {
+      "num": 3,
+      "kr": "과학·심리",
+      "zh": "科學・心理",
+      "days": [
+        11,
+        12,
+        13,
+        14,
+        15
+      ]
+    },
+    {
+      "num": 4,
+      "kr": "교육",
+      "zh": "教育",
+      "days": [
+        16,
+        17,
+        18,
+        19,
+        20
+      ]
+    },
+    {
+      "num": 5,
+      "kr": "문화·예술",
+      "zh": "文化・藝術",
+      "days": [
+        21,
+        22,
+        23,
+        24,
+        25
+      ]
+    },
+    {
+      "num": 6,
+      "kr": "문학",
+      "zh": "文學",
+      "days": [
+        26,
+        27,
+        28,
+        29,
+        30
+      ]
+    },
+    {
+      "num": 7,
+      "kr": "법률·제도",
+      "zh": "法律・制度",
+      "days": [
+        31,
+        32,
+        33,
+        34,
+        35
+      ]
+    },
+    {
+      "num": 8,
+      "kr": "정치·사회",
+      "zh": "政治・社會",
+      "days": [
+        36,
+        37,
+        38,
+        39,
+        40
+      ]
+    },
+    {
+      "num": 9,
+      "kr": "의학·건강",
+      "zh": "醫學・健康",
+      "days": [
+        41,
+        42,
+        43,
+        44,
+        45
+      ]
+    },
+    {
+      "num": 10,
+      "kr": "자연·환경",
+      "zh": "自然・環境",
+      "days": [
+        46,
+        47,
+        48,
+        49,
+        50
+      ]
+    },
+    {
+      "num": 11,
+      "kr": "신문기사·기타",
+      "zh": "新聞報導・其他",
+      "days": [
+        51,
+        52,
+        53,
+        54,
+        55
+      ]
+    },
+    {
+      "num": 12,
+      "kr": "속담·관용표현",
+      "zh": "俗語・慣用語",
+      "days": [
+        56,
+        57,
+        58,
+        59,
+        60
+      ]
+    }
+  ],
+  "days": [
+    {
+      "day": 1,
+      "part": 1,
+      "file": "days/day_01.json",
+      "word_count": 40,
+      "has_full_data": true
+    },
+    {
+      "day": 2,
+      "part": 1,
+      "file": "days/day_02.json",
+      "word_count": 39,
+      "has_full_data": false
+    },
+    {
+      "day": 3,
+      "part": 1,
+      "file": "days/day_03.json",
+      "word_count": 36,
+      "has_full_data": false
+    },
+    {
+      "day": 4,
+      "part": 1,
+      "file": "days/day_04.json",
+      "word_count": 38,
+      "has_full_data": false
+    },
+    {
+      "day": 5,
+      "part": 1,
+      "file": "days/day_05.json",
+      "word_count": 38,
+      "has_full_data": false
+    },
+    {
+      "day": 6,
+      "part": 2,
+      "file": "days/day_06.json",
+      "word_count": 32,
+      "has_full_data": false
+    },
+    {
+      "day": 7,
+      "part": 2,
+      "file": "days/day_07.json",
+      "word_count": 36,
+      "has_full_data": false
+    },
+    {
+      "day": 8,
+      "part": 2,
+      "file": "days/day_08.json",
+      "word_count": 38,
+      "has_full_data": false
+    },
+    {
+      "day": 9,
+      "part": 2,
+      "file": "days/day_09.json",
+      "word_count": 38,
+      "has_full_data": false
+    },
+    {
+      "day": 10,
+      "part": 2,
+      "file": "days/day_10.json",
+      "word_count": 38,
+      "has_full_data": false
+    },
+    {
+      "day": 11,
+      "part": 3,
+      "file": "days/day_11.json",
+      "word_count": 38,
+      "has_full_data": false
+    },
+    {
+      "day": 12,
+      "part": 3,
+      "file": "days/day_12.json",
+      "word_count": 40,
+      "has_full_data": false
+    },
+    {
+      "day": 13,
+      "part": 3,
+      "file": "days/day_13.json",
+      "word_count": 38,
+      "has_full_data": false
+    },
+    {
+      "day": 14,
+      "part": 3,
+      "file": "days/day_14.json",
+      "word_count": 34,
+      "has_full_data": false
+    },
+    {
+      "day": 15,
+      "part": 3,
+      "file": "days/day_15.json",
+      "word_count": 33,
+      "has_full_data": false
+    },
+    {
+      "day": 16,
+      "part": 4,
+      "file": "days/day_16.json",
+      "word_count": 38,
+      "has_full_data": false
+    },
+    {
+      "day": 17,
+      "part": 4,
+      "file": "days/day_17.json",
+      "word_count": 40,
+      "has_full_data": false
+    },
+    {
+      "day": 18,
+      "part": 4,
+      "file": "days/day_18.json",
+      "word_count": 30,
+      "has_full_data": false
+    },
+    {
+      "day": 19,
+      "part": 4,
+      "file": "days/day_19.json",
+      "word_count": 39,
+      "has_full_data": false
+    },
+    {
+      "day": 20,
+      "part": 4,
+      "file": "days/day_20.json",
+      "word_count": 38,
+      "has_full_data": false
+    },
+    {
+      "day": 21,
+      "part": 5,
+      "file": "days/day_21.json",
+      "word_count": 39,
+      "has_full_data": false
+    },
+    {
+      "day": 22,
+      "part": 5,
+      "file": "days/day_22.json",
+      "word_count": 29,
+      "has_full_data": false
+    },
+    {
+      "day": 23,
+      "part": 5,
+      "file": "days/day_23.json",
+      "word_count": 35,
+      "has_full_data": false
+    },
+    {
+      "day": 24,
+      "part": 5,
+      "file": "days/day_24.json",
+      "word_count": 37,
+      "has_full_data": false
+    },
+    {
+      "day": 25,
+      "part": 5,
+      "file": "days/day_25.json",
+      "word_count": 37,
+      "has_full_data": false
+    },
+    {
+      "day": 26,
+      "part": 6,
+      "file": "days/day_26.json",
+      "word_count": 38,
+      "has_full_data": false
+    },
+    {
+      "day": 27,
+      "part": 6,
+      "file": "days/day_27.json",
+      "word_count": 38,
+      "has_full_data": false
+    },
+    {
+      "day": 28,
+      "part": 6,
+      "file": "days/day_28.json",
+      "word_count": 38,
+      "has_full_data": false
+    },
+    {
+      "day": 29,
+      "part": 6,
+      "file": "days/day_29.json",
+      "word_count": 39,
+      "has_full_data": false
+    },
+    {
+      "day": 30,
+      "part": 6,
+      "file": "days/day_30.json",
+      "word_count": 34,
+      "has_full_data": false
+    },
+    {
+      "day": 31,
+      "part": 7,
+      "file": "days/day_31.json",
+      "word_count": 40,
+      "has_full_data": false
+    },
+    {
+      "day": 32,
+      "part": 7,
+      "file": "days/day_32.json",
+      "word_count": 37,
+      "has_full_data": false
+    },
+    {
+      "day": 33,
+      "part": 7,
+      "file": "days/day_33.json",
+      "word_count": 39,
+      "has_full_data": false
+    },
+    {
+      "day": 34,
+      "part": 7,
+      "file": "days/day_34.json",
+      "word_count": 37,
+      "has_full_data": false
+    },
+    {
+      "day": 35,
+      "part": 7,
+      "file": "days/day_35.json",
+      "word_count": 37,
+      "has_full_data": false
+    },
+    {
+      "day": 36,
+      "part": 8,
+      "file": "days/day_36.json",
+      "word_count": 40,
+      "has_full_data": false
+    },
+    {
+      "day": 37,
+      "part": 8,
+      "file": "days/day_37.json",
+      "word_count": 38,
+      "has_full_data": false
+    },
+    {
+      "day": 38,
+      "part": 8,
+      "file": "days/day_38.json",
+      "word_count": 38,
+      "has_full_data": false
+    },
+    {
+      "day": 39,
+      "part": 8,
+      "file": "days/day_39.json",
+      "word_count": 33,
+      "has_full_data": false
+    },
+    {
+      "day": 40,
+      "part": 8,
+      "file": "days/day_40.json",
+      "word_count": 35,
+      "has_full_data": false
+    },
+    {
+      "day": 41,
+      "part": 9,
+      "file": "days/day_41.json",
+      "word_count": 39,
+      "has_full_data": false
+    },
+    {
+      "day": 42,
+      "part": 9,
+      "file": "days/day_42.json",
+      "word_count": 38,
+      "has_full_data": false
+    },
+    {
+      "day": 43,
+      "part": 9,
+      "file": "days/day_43.json",
+      "word_count": 39,
+      "has_full_data": false
+    },
+    {
+      "day": 44,
+      "part": 9,
+      "file": "days/day_44.json",
+      "word_count": 39,
+      "has_full_data": false
+    },
+    {
+      "day": 45,
+      "part": 9,
+      "file": "days/day_45.json",
+      "word_count": 39,
+      "has_full_data": false
+    },
+    {
+      "day": 46,
+      "part": 10,
+      "file": "days/day_46.json",
+      "word_count": 34,
+      "has_full_data": false
+    },
+    {
+      "day": 47,
+      "part": 10,
+      "file": "days/day_47.json",
+      "word_count": 38,
+      "has_full_data": false
+    },
+    {
+      "day": 48,
+      "part": 10,
+      "file": "days/day_48.json",
+      "word_count": 38,
+      "has_full_data": false
+    },
+    {
+      "day": 49,
+      "part": 10,
+      "file": "days/day_49.json",
+      "word_count": 35,
+      "has_full_data": false
+    },
+    {
+      "day": 50,
+      "part": 10,
+      "file": "days/day_50.json",
+      "word_count": 37,
+      "has_full_data": false
+    },
+    {
+      "day": 51,
+      "part": 11,
+      "file": "days/day_51.json",
+      "word_count": 39,
+      "has_full_data": false
+    },
+    {
+      "day": 52,
+      "part": 11,
+      "file": "days/day_52.json",
+      "word_count": 37,
+      "has_full_data": false
+    },
+    {
+      "day": 53,
+      "part": 11,
+      "file": "days/day_53.json",
+      "word_count": 38,
+      "has_full_data": false
+    },
+    {
+      "day": 54,
+      "part": 11,
+      "file": "days/day_54.json",
+      "word_count": 39,
+      "has_full_data": false
+    },
+    {
+      "day": 55,
+      "part": 11,
+      "file": "days/day_55.json",
+      "word_count": 37,
+      "has_full_data": false
+    },
+    {
+      "day": 56,
+      "part": 12,
+      "file": "days/day_56.json",
+      "word_count": 37,
+      "has_full_data": false
+    },
+    {
+      "day": 57,
+      "part": 12,
+      "file": "days/day_57.json",
+      "word_count": 37,
+      "has_full_data": false
+    },
+    {
+      "day": 58,
+      "part": 12,
+      "file": "days/day_58.json",
+      "word_count": 36,
+      "has_full_data": false
+    },
+    {
+      "day": 59,
+      "part": 12,
+      "file": "days/day_59.json",
+      "word_count": 20,
+      "has_full_data": false
+    },
+    {
+      "day": 60,
+      "part": 12,
+      "file": "days/day_60.json",
+      "word_count": 33,
+      "has_full_data": false
+    }
+  ]
+}
